@@ -1,0 +1,1 @@
+Protocol TL-101 version 3. The confirmatory endpoint is mobility score change at week 12 using the prespecified analysis population. Sleep quality is secondary.
