@@ -1,0 +1,33 @@
+{
+  "assessmentId": "TL-1788540656",
+  "transactions": {
+    "file": "0xb5a653342489a60ce58e5f89ee653cc2db44322b3c155aee4f47ed48327bd216",
+    "evaluate": "0x403dfbbd07272159c17a1007f7adf0dcd8ab99be7861d37f34d31d0e08e3e2d3"
+  },
+  "state": {
+    "claim": "The intervention improves the registered primary mobility endpoint at week 12.",
+    "digests": [
+      "5adebeef061426897825cdff5de92d5078f91490f0ae22792dbbac6203b683e8",
+      "d09b43f108a1d1602754af6ecb2f02aeca30a452ec01f6f6a676ca3a2d4530e3",
+      "11b351053c1f03d1d1bc3a5b55f312a5d37d254ce2a6bb0e3397b3033fccf010"
+    ],
+    "id": "TL-1788540656",
+    "owner": "0xAD049E0Edc298C97552eD60071a35bfc60181FD4",
+    "sources": [
+      "https://raw.githubusercontent.com/sanshos1/trial-lens/92271f2ee9c751513c68fd486f4b4cc70b9e549c/materials/registry.txt",
+      "https://raw.githubusercontent.com/sanshos1/trial-lens/92271f2ee9c751513c68fd486f4b4cc70b9e549c/materials/protocol.txt",
+      "https://raw.githubusercontent.com/sanshos1/trial-lens/92271f2ee9c751513c68fd486f4b4cc70b9e549c/materials/results.txt"
+    ],
+    "state": "FINAL",
+    "trialId": "TL-101"
+  },
+  "finding": {
+    "conflictIndexes": [],
+    "endpointMatches": [
+      "mobility score at week 12"
+    ],
+    "limitations": [],
+    "rationale": "The registry, protocol, and results are all consistent regarding the primary endpoint definition and timing. The results confirm a statistically significant improvement in the prespecified mobility score at week 12, directly supporting the claim.",
+    "verdict": "SUPPORTED"
+  }
+}

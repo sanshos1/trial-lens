@@ -45,4 +45,4 @@ For a network reproduction, review [experiments/smoke.py](experiments/smoke.py).
 
 [Source](study/assessment.py), [direct tests](validation/direct/test_contract.py), and [stored network finding](runs/finding.json) are available for inspection. Direct tests exercise the lifecycle, input guards and a forged digest, not clinical accuracy.
 
-Deployment and network-run files are generated after execution; use the paths referenced above to inspect the current evidence.
+[Assessment deployment](https://explorer-studio.genlayer.com/address/0x706dEE03E0Fc93c7b0F6274743C853f4E4E3Da60) — [creation transaction](https://explorer-studio.genlayer.com/tx/0xdebe3545730c84492390de4614f31d2c4112f97a8266da351532aedcca345f79). The recorded source revision is `92271f2`.
